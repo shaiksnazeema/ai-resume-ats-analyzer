@@ -60,7 +60,11 @@ http://127.0.0.1:5000/
  * Improvement suggestions
 
  📸 Screenshots
-*Add screenshots of your project here (UI + results page)*
+
+<img width="1920" height="941" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/55548a4b-f84c-4ed1-a7cf-85cdf81048b8" />
+<img width="1920" height="949" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/6c356ae7-6151-40da-adb4-7dffa8359d00" />
+
+
 🎯 Use Cases
 * Job seekers improving resumes
 * Students preparing for placements
